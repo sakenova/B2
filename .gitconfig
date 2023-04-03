@@ -4,6 +4,6 @@
 	name = sakenova
 	email = sakenova.aisulu@gmail.com
 [alias]
-	history = log
+	history = log --graph
 [init]
 	templateDir = C:/Users/Кисуля/.git-template
